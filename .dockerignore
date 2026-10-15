@@ -1,12 +1,8 @@
 .git
-.gitignore
 logs
 *.log
 *.tmp
 .vscode
-README.md
-test.sh
 grade.sh
-compose.yaml
-Dockerfile
-.dockerignore
+test.sh
+README.md
