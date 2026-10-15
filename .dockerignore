@@ -1,0 +1,8 @@
+.git
+logs
+*.log
+*.tmp
+.vscode
+grade.sh
+test.sh
+README.md
